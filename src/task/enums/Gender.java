@@ -1,5 +1,6 @@
-package task;
+package task.enums;
 
-public E enums {
+public enum Gender {
+    MALE, FEMALE
 
 }
